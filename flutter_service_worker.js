@@ -3,9 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
+<<<<<<< HEAD
 const RESOURCES = {"assets/AssetManifest.bin": "64ac1f500c1ff9f4f0cacc2f6257713e",
 "assets/AssetManifest.bin.json": "e8f16dff41dc4e4eaf756a7a843d914b",
 "assets/AssetManifest.json": "a1ad1a95ab751e1ff19e65bc8c79af68",
+=======
+const RESOURCES = {"assets/AssetManifest.bin": "1aaebb2a311efb17172d1f577339bd23",
+"assets/AssetManifest.bin.json": "bc26232bac08e639be5e8d10884ab059",
+"assets/AssetManifest.json": "3d8d83c1cf78a3dd95c84562e12e9ded",
+>>>>>>> 4b8656c (update v0.2)
 "assets/assets/fonts/Poppins-Black.ttf": "14d00dab1f6802e787183ecab5cce85e",
 "assets/assets/fonts/Poppins-BlackItalic.ttf": "e9c5c588e39d0765d30bcd6594734102",
 "assets/assets/fonts/Poppins-Bold.ttf": "08c20a487911694291bd8c5de41315ad",
@@ -37,6 +43,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "64ac1f500c1ff9f4f0cacc2f6257713e
 "assets/assets/images/icons/fst.png": "8d851a2cb95c51535b6b2bfa8998dc39",
 "assets/assets/images/icons/ios.png": "97824076344b5e5739befd5b422cbcdd",
 "assets/assets/images/icons/majorel.png": "bb69225a59bc259f093df5e8da672539",
+<<<<<<< HEAD
+=======
+"assets/assets/images/icons/mthree.png": "19158ce9225c3b89b0b4e6d4aa0c6ea4",
+>>>>>>> 4b8656c (update v0.2)
 "assets/assets/images/icons/ofppt.png": "660fb0924d573149564f99471a196efa",
 "assets/assets/images/icons/pcz.png": "1a9f8bb896bf02820607595ca9c0cd48",
 "assets/assets/images/icons/python.png": "7ed7279e46619d48710dca21a38a9c0c",
@@ -61,8 +71,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "64ac1f500c1ff9f4f0cacc2f6257713e
 "assets/assets/images/skills/9.png": "8a77f23fc1355f7f149998a6039cd6ba",
 "assets/assets/projects/aimgame.gif": "8ecdab49b816265561f2e71d6f3e6a3f",
 "assets/assets/projects/computerVision.jpeg": "e7dbe6e53fa224e5faf10ca230538d73",
+<<<<<<< HEAD
 "assets/assets/projects/portfolio.gif": "f8ea67f9e95e6c68c66eb7232e05fce4",
 "assets/assets/rive/avatar.riv": "87b480e81a7972fce58e58bd354b7ea7",
+=======
+"assets/assets/projects/fileMana.gif": "22bc2891c0fef459f8d515073d1453ed",
+"assets/assets/projects/portfolio.gif": "f8ea67f9e95e6c68c66eb7232e05fce4",
+"assets/assets/rive/avatar.riv": "c0c6d3367aeed8bdc785c3342bc93795",
+>>>>>>> 4b8656c (update v0.2)
 "assets/assets/rive/bg.riv": "1277066669bf5b22f9a39c6e63948362",
 "assets/assets/rive/profile.riv": "28ae1a416ca9b5e8e07a52c5cb1a216e",
 "assets/FontManifest.json": "3e9e9f210a58430f9b6e46ae7c9303ef",
@@ -91,14 +107,22 @@ const RESOURCES = {"assets/AssetManifest.bin": "64ac1f500c1ff9f4f0cacc2f6257713e
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "a2f69431a17380d47c8d90f932e5b9bc",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
+<<<<<<< HEAD
 "flutter_bootstrap.js": "dbb6b024ad966283c6316af211263c87",
+=======
+"flutter_bootstrap.js": "13e2275cde443d94e34c8f9fd07faf2f",
+>>>>>>> 4b8656c (update v0.2)
 "icons/Icon-192.png": "a2f69431a17380d47c8d90f932e5b9bc",
 "icons/Icon-512.png": "81e2f6cfb030e48fc47fb6ad32037418",
 "icons/Icon-maskable-192.png": "a2f69431a17380d47c8d90f932e5b9bc",
 "icons/Icon-maskable-512.png": "81e2f6cfb030e48fc47fb6ad32037418",
 "index.html": "510120590b61e2d30c387d4022ef629e",
 "/": "510120590b61e2d30c387d4022ef629e",
+<<<<<<< HEAD
 "main.dart.js": "b215f76d0337df6a82ddc23f256bd7cd",
+=======
+"main.dart.js": "2c269a9488fe96231e81da92ac060b20",
+>>>>>>> 4b8656c (update v0.2)
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "60a71d692c6e6a566ef45d00a046e4e4"};
 // The application shell files that are downloaded before a service worker can
